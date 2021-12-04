@@ -8,3 +8,5 @@
    - Merge Sort
 
 ## Built using HTML, CSS,Bootstrap and JavaScript 
+
+[Check out the website here](https://yashsalesa.github.io/Sorting-Visualizer/)
